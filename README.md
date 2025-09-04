@@ -8,6 +8,5 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 
 ## Developers
 
-* Ethan sudol
-* John Arbuckle
-* Garfield Steinberg
+* **Ethan sudol**
+* _John Arbuckle_
