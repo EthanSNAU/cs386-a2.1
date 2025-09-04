@@ -12,5 +12,3 @@ Use the package manager [pip](https://pypi.org/project/pip/) to install MyCarDri
 ---
 * **Ethan sudol**
 * _Marco Gerosa_
-* Lebron James
-* Steph Curry
